@@ -196,34 +196,6 @@
 			y: -10.0d
 		}
 		{
-			dependencies: ["3C12FD23932C3522"]
-			description: ["Since growing crystals without any accelerators takes a long time, you should invest your first fluix crystals into building as many &bCrystal Growth Accelerators&r as you can."]
-			id: "7B3F4A3D79F2988B"
-			rewards: [{
-				id: "1EB59762D58C2812"
-				item: {
-					Count: 1b
-					id: "lootbags:loot_bag"
-					tag: {
-						Color: 16747259
-						Loot: "bitcraft:loot_bags/misc/logistics"
-						Name: "Logistics & Storage Lootbag"
-						Type: "UNCOMMON"
-					}
-				}
-				type: "item"
-			}]
-			subtitle: "Used to accelerate crystal growth."
-			tasks: [{
-				count: 4L
-				id: "7AA503B6ABF481D7"
-				item: "ae2:quartz_growth_accelerator"
-				type: "item"
-			}]
-			x: -2.0d
-			y: -10.0d
-		}
-		{
 			dependencies: ["5683C69200EBC4CD"]
 			id: "696536A55ED81D6B"
 			rewards: [{
@@ -912,70 +884,6 @@
 		{
 			dependencies: ["679955AA48F79365"]
 			description: [
-				"By existing it enforces permissions on the usage of the system."
-				""
-				"The security system does not prevent destructive tampering, removing cables / machines or breaking of drives is not directly provided by the security Terminal."
-				""
-				"If you need to protect your system from physical vandalism you will need another form of physical security. This block provides Network level security."
-				""
-				"The player who places the ME Security Terminal has full control over the network and cannot exclude himself any rights."
-				""
-				"By adding a blank Biometric Card you define a default behavior for every player who has no own Biometric Card registered."
-				""
-				"Other than adding security on software layer, you can link up your Wireless Terminal with the network and access it wirelessly."
-			]
-			id: "57507836248CB116"
-			rewards: [{
-				id: "08E65237A30C764B"
-				item: {
-					Count: 1b
-					id: "lootbags:loot_bag"
-					tag: {
-						Color: 16747259
-						Loot: "bitcraft:loot_bags/misc/logistics"
-						Name: "Logistics & Storage Lootbag"
-						Type: "UNCOMMON"
-					}
-				}
-				type: "item"
-			}]
-			subtitle: "Allows you to configure which users, and what permissions the users have with the ME System."
-			tasks: [{
-				id: "6FDD185D41E3E494"
-				item: "ae2:security_station"
-				type: "item"
-			}]
-			x: -5.5d
-			y: -1.5d
-		}
-		{
-			dependencies: ["57507836248CB116"]
-			id: "563432F2BB1EE1AF"
-			rewards: [{
-				id: "7365A36669E59540"
-				item: {
-					Count: 1b
-					id: "lootbags:loot_bag"
-					tag: {
-						Color: 16747259
-						Loot: "bitcraft:loot_bags/misc/logistics"
-						Name: "Logistics & Storage Lootbag"
-						Type: "UNCOMMON"
-					}
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "21C4930537157E49"
-				item: "ae2:biometric_card"
-				type: "item"
-			}]
-			x: -5.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["563432F2BB1EE1AF"]
-			description: [
 				"Range and power usage is determined based on the number of Wireless Booster installed into the ME Wireless Access Point."
 				""
 				"A network can have any number of ME Wireless Access Point with any number of Wireless Booster in each one, allowing you to optimize power usage and range by altering your setup."
@@ -1004,7 +912,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: 1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["69597F2A6D80AE29"]
@@ -1030,7 +938,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: 3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["0B27217B40C19911"]
@@ -1056,7 +964,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: 4.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["679955AA48F79365"]
@@ -1161,7 +1069,7 @@
 				title: "Security and Wireless"
 				type: "checkmark"
 			}]
-			title: "Security, Wireless and Beyond"
+			title: "Wireless and Beyond"
 			x: -6.5d
 			y: -3.0d
 		}
@@ -1262,15 +1170,12 @@
 				"5386766A061332CA"
 				"033814C6CFAF56E6"
 				"5DD87AC2BC5F87F2"
-				"563432F2BB1EE1AF"
 				"2BE8127E1180DA21"
 				"5683C69200EBC4CD"
 				"2B641E7A30686BCF"
 				"4AC1C083537E8706"
 				"44B22A645FC94C64"
-				"7B3F4A3D79F2988B"
 				"3988E16DAA388261"
-				"57507836248CB116"
 				"3C12FD23932C3522"
 			]
 			hide_dependency_lines: true
