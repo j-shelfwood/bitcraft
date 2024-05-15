@@ -13,4 +13,5 @@
 !mods/
 !mods/**
 !minecraftinstance.json
+!README.md
 
