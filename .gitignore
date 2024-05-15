@@ -9,4 +9,8 @@
 !kubejs/**
 !defaultconfigs/
 !defaultconfigs/**
+# Mods
+!mods/
+!mods/**
+!minecraftinstance.json
 
