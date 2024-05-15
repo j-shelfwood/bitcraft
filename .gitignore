@@ -3,6 +3,6 @@
 
 # But not these files...
 !.gitignore
-!config/
-!kubejs/
-!defaultconfigs/
+!config/**
+!kubejs/**
+!defaultconfigs/**
