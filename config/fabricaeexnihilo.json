@@ -1,0 +1,84 @@
+{
+  "infested": {
+    "progressPerUpdate": 0.015,
+    "spreadChance": 0.5,
+    "updateFrequency": 10,
+    "infestedSpreadAttempts": 4,
+    "infestingSpreadAttempts": 1,
+    "minimumSpreadProgress": 0.15
+  },
+  "strainers": {
+    "minWaitTime": 1200,
+    "maxWaitTime": 6000
+  },
+  "witchWater": {
+    "effects": [
+      {
+        "type": "minecraft:blindness",
+        "duration": 210,
+        "amplifier": 0
+      },
+      {
+        "type": "minecraft:hunger",
+        "duration": 210,
+        "amplifier": 2
+      },
+      {
+        "type": "minecraft:slowness",
+        "duration": 210,
+        "amplifier": 0
+      },
+      {
+        "type": "minecraft:weakness",
+        "duration": 210,
+        "amplifier": 2
+      },
+      {
+        "type": "minecraft:wither",
+        "duration": 210,
+        "amplifier": 0
+      }
+    ]
+  },
+  "enableSaltCollection": true,
+  "barrels": {
+    "leakRadius": 2,
+    "tickRate": 6,
+    "efficiency": true,
+    "thorns": true,
+    "compostRate": 0.01,
+    "bleeding": true,
+    "milking": true
+  },
+  "crucibles": {
+    "woodVolume": 1,
+    "efficiency": true,
+    "fireAspect": true,
+    "tickRate": 20,
+    "fireproofProcessingRate": 810,
+    "woodProcessingRate": 1350,
+    "stoneVolume": 4
+  },
+  "seeds": {
+    "netherSpores": true,
+    "seaPickle": true,
+    "sugarCane": true,
+    "kelp": true,
+    "mycelium": true,
+    "chorus": true,
+    "flowerSeeds": true,
+    "grass": true,
+    "enabled": true,
+    "cactus": true
+  },
+  "sieves": {
+    "haste": true,
+    "hasteScaleFactor": 1.0,
+    "meshStackSize": 16,
+    "sieveRadius": 2,
+    "baseProgress": 0.1,
+    "efficiency": true,
+    "efficiencyScaleFactor": 0.05,
+    "fortune": true
+  }
+}
