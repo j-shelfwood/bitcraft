@@ -1299,7 +1299,7 @@
 				}
 			]
 			title: "&bDiesel Jetpack and Tools"
-			x: 8.5d
+			x: 9.0d
 			y: -6.5d
 		}
 		{
@@ -1417,41 +1417,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["036292964BDE4944"]
-			description: [
-				"Various fuels can be burned in the Diesel Generator, and you can check in REI how many EU each fuel produces."
-				""
-				"The Diesel Generator will produce up to 128 EU/t and will only connect to MV cables."
-				""
-				"Diesel Generators will only use fuel when they need to, but if you need a constant supply of energy, you can put liquid fuels in the Large Steam Boiler instead of items."
-				""
-				"A fully heated Large Steam Boiler will roughly produce twice the amount of energy a Diesel Generator would produce using the same quantity of fuel."
-			]
-			id: "6C8E36B461895C72"
-			rewards: [{
-				id: "5C70B8E95A5100BB"
-				item: {
-					Count: 1b
-					id: "lootbags:loot_bag"
-					tag: {
-						Color: 16425539
-						Loot: "bitcraft:loot_bags/mi/rare"
-						Name: "Modern Industrialization Rare Lootbag"
-						Type: "RARE"
-					}
-				}
-				type: "item"
-			}]
-			subtitle: "Diesel generators will only use fuel when it needs to."
-			tasks: [{
-				id: "69A5D1E45B60D2DA"
-				item: "modern_industrialization:diesel_generator"
-				type: "item"
-			}]
-			x: 9.5d
-			y: -6.5d
-		}
-		{
 			dependencies: ["7CE18D246F01445D"]
 			description: [
 				"The Distillery only gives you one oil processing output, but the tower gives you ONE PER LAYER!"
@@ -1552,7 +1517,7 @@
 				}
 			]
 			title: "More upgrades!"
-			x: 11.5d
+			x: 11.0d
 			y: -6.5d
 		}
 		{
@@ -1743,7 +1708,7 @@
 				type: "item"
 			}]
 			title: "Upgrades!"
-			x: 10.5d
+			x: 10.0d
 			y: -6.5d
 		}
 		{
@@ -2828,7 +2793,6 @@
 				"38F9192F665742BA"
 				"6BEB4461CA08633F"
 				"1EACE9E49BA4B753"
-				"6C8E36B461895C72"
 				"4DCFE7721417E669"
 				"79802A9D4A83E757"
 				"64BACF5B60AD2406"

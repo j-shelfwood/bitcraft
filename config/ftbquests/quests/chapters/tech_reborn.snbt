@@ -2077,8 +2077,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "15C28B8C2859DECC"
-				item: "modern_industrialization:coal_dust"
+				id: "2C7AF6BDE76B7820"
+				item: "techreborn:coal_dust"
 				type: "item"
 			}]
 			x: -11.0d
