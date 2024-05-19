@@ -26,8 +26,13 @@
 				id: "300CDF28987696BC"
 				item: {
 					Count: 1b
-					id: "inmis:baby_backpack"
-					tag: { }
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16425539
+						Loot: "bitcraft:loot_bags/mi/common"
+						Name: "Modern Industrialization Common Lootbag"
+						Type: "COMMON"
+					}
 				}
 				type: "item"
 			}]

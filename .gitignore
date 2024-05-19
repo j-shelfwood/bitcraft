@@ -9,9 +9,13 @@
 !kubejs/**
 !defaultconfigs/
 !defaultconfigs/**
+
 # Mods
 !mods/
 !mods/**
 !minecraftinstance.json
 !README.md
 
+# Scripts
+!computercraft-scripts/
+!computercraft-scripts/**
