@@ -1,4 +1,7 @@
 {
+  "toms_trading_network": {
+    "vending_machine": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -59,6 +62,13 @@
     "ench": true,
     "spawner": true
   },
+  "fabricaeexnihilo": {
+    "barrel": true,
+    "strainer": true,
+    "crucible": true,
+    "sieve": true,
+    "infesting_leaves": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -66,6 +76,13 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "milk_jar": true,
+    "toaster": true
   },
   "fluxnetworks": {
     "device_data_provider": true
