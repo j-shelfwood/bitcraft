@@ -42,6 +42,72 @@ mode = "fancy"
 				skeleton_horse = true
 				turtle = true
 				squid = true
+				leash_knot = true
+				painting = true
+				armor_stand = true
+				wolf = true
+				cow = true
+				chicken = true
+				sheep = true
+				pig = true
+				donkey = true
+				horse = true
+				salmon = true
+				cave_spider = true
+				drowned = true
+				stray = true
+				villager = true
+				fox = true
+				bee = true
+				witch = true
+				lightning_bolt = true
+				arrow = true
+				experience_orb = true
+				zombified_piglin = true
+				blaze = true
+				axolotl = true
+				boat = true
+				tnt_minecart = true
+				cod = true
+				pufferfish = true
+				rabbit = true
+				dolphin = true
+				pillager = true
+				phantom = true
+				cat = true
+				iron_golem = true
+				guardian = true
+				elder_guardian = true
+				trident = true
+				potion = true
+				llama = true
+				parrot = true
+				panda = true
+				area_effect_cloud = true
+				warden = true
+				polar_bear = true
+				goat = true
+				allay = true
+				vindicator = true
+				silverfish = true
+				ocelot = true
+				firework_rocket = true
+				strider = true
+				piglin = true
+				hoglin = true
+				spectral_arrow = true
+				ghast = true
+				fireball = true
+				magma_cube = true
+				small_fireball = true
+				husk = true
+				ender_pearl = true
+				piglin_brute = true
+				wither_skeleton = true
+				ender_dragon = true
+				dragon_fireball = true
+				shulker = true
+				shulker_bullet = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -49,4 +115,76 @@ mode = "fancy"
 			[light_sources.settings.entities.creeperoverhaul]
 				cave_creeper = true
 				swamp_creeper = true
+				spruce_creeper = true
+				bamboo_creeper = true
+				jungle_creeper = true
+				dripstone_creeper = true
+				savannah_creeper = true
+				ocean_creeper = true
+				beach_creeper = true
+				dark_oak_creeper = true
+				hills_creeper = true
+				snowy_creeper = true
+				desert_creeper = true
+				badlands_creeper = true
+
+			[light_sources.settings.entities.vinery]
+				mule = true
+				wandering_winemaker = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+				orc = true
+				void_bullet = true
+				deer = true
+				summoner = true
+				piglin_beast = true
+				blaze_guardian_shield = true
+				blaze_guardian = true
+				iguana = true
+				desert_rhino = true
+				ender_whale = true
+				nightmare = true
+				soul_reaper = true
+				mini_blackstone_golem = true
+				enderwarthog = true
+
+			[light_sources.settings.entities.create]
+				super_glue = true
+				stationary_contraption = true
+				potato_projectile = true
+				carriage_contraption = true
+
+			[light_sources.settings.entities.ad_astra]
+				tier_1_rocket = true
+				space_painting = true
+				tier_3_rocket = true
+				tier_1_rover = true
+				tier_2_rocket = true
+				tier_4_rocket = true
+				lander = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.tumbleweed]
+				tumbleweed = true
+
+			[light_sources.settings.entities.terraform]
+				boat = true
+
+			[light_sources.settings.entities.bakery]
+				wandering_baker = true
+
+			[light_sources.settings.entities.chococraft]
+				chocobo = true
+
+			[light_sources.settings.entities.botania]
+				mana_burst = true
+
+			[light_sources.settings.entities.spectrum]
+				shooting_star = true
+
+			[light_sources.settings.entities.gag]
+				time_accelerator = true
 

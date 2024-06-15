@@ -8,9 +8,6 @@
     "notice_board": {
       "centered_text": true
     },
-    "bunting": {
-      "fast_buntings": false
-    },
     "clock_block": {
       "24h_format": true
     },
@@ -56,7 +53,7 @@
         "collision_inertia": 1.5,
         "collision_force": 15.0,
         "min_angle": 0.0,
-        "max_angle": 54.999985,
+        "max_angle": 54.99998,
         "damping": 1.625
       }
     },
@@ -79,7 +76,7 @@
   },
   "general": {
     "no_optifine_warn_screen": false,
-    "no_amendments_screen": false,
+    "no_amendments_screen": true,
     "config_button": true,
     "config_button_y_offset": 0,
     "tooltip_hints": true,
