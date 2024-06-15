@@ -7,6 +7,7 @@
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
+    "animal_owner.fetch_names": true,
     "harvest_tool.effective_tool": true,
     "item_storage.normal_amount": 9,
     "item_storage": true,
@@ -56,12 +57,6 @@
   "tesseract": {
     "tesseract_component": true
   },
-  "gtceu": {
-    "recipe_logic_provider": true,
-    "workable_provider": true,
-    "electric_container_provider": true,
-    "controllable_provider": true
-  },
   "zenith": {
     "adventure": true,
     "ench": true,
@@ -73,9 +68,6 @@
     "crucible": true,
     "sieve": true,
     "infesting_leaves": true
-  },
-  "supplementaries": {
-    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,

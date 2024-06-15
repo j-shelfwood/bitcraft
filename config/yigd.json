@@ -140,8 +140,7 @@
     "enableTrinketsCompat": true,
     "defaultTrinketsDropRule": "PUT_IN_GRAVE",
     "enableBeansBackpacksCompat": true,
-    "defaultBeansBackpacksDropRule": "PUT_IN_GRAVE",
-    "enableRespawnObelisksCompat": true
+    "defaultBeansBackpacksDropRule": "PUT_IN_GRAVE"
   },
   "commandConfig": {
     "mainCommand": "yigd",

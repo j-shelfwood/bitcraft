@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Magic Rare Lootbag",
+  "color": "#ff8afb",
+  "rarity": "RARE",
+  "output": {
+    "table": "bitcraft:loot_bags/magic_rare"
+  }
+}
