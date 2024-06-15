@@ -22,7 +22,7 @@
     "terminalMargin": 25
   },
   "terminals": {
-    "terminalStyle": "small",
+    "terminalStyle": "full",
     "pinAutoCraftedItems_comment": "Pin items that the player auto-crafts to the top of the terminal",
     "pinAutoCraftedItems": true
   },
@@ -40,7 +40,7 @@
     "rememberLastSearch_comment": "Remembers the last search term and restores it when the terminal opens",
     "rememberLastSearch": true,
     "autoFocusSearch_comment": "Automatically focuses the search field when the terminal opens",
-    "autoFocusSearch": false
+    "autoFocusSearch": true
   },
   "tooltips": {
     "showCellUpgrades_comment": "Show installed upgrades in the tooltips of storage cells, color applicators and matter cannons",

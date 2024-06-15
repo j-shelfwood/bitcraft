@@ -1,9 +1,0 @@
-{
-  "type": "lootbags:loot",
-  "name": "Ad Astra! Common Lootbag",
-  "color": "#b380ed",
-  "rarity": "COMMON",
-  "output": {
-    "table": "bitcraft:loot_bags/ad_astra_common"
-  }
-}
